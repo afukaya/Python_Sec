@@ -1,0 +1,6 @@
+ns1
+ns2
+www
+ftp
+intranet
+xpto
