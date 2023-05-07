@@ -16,7 +16,7 @@ DEPENDENCIES:
 import socket
 import os
 
-host = "192.168.15.21"
+host = "192.168.15.34"
 
 if os.name == "nt":
     socket_protocol = socket.IPPROTO_IP
