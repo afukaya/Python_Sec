@@ -11,6 +11,7 @@ DEPENDENCIES:
 """
 
 import socket
+
 host  = '192.168.1.1'
 ports =  [21,22,23,80]
 print('Open Ports')

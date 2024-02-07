@@ -10,6 +10,12 @@ DESCRIPTION:
     Provides basic multithread TCP server capabilities. Usefull when you have no 
     tools for transfering files on a explored asset. This code was adapted to
     python 3 from Black Hat Python book.
+
+    Black Hat Python
+    Seitz, Justin
+    No Starch Press
+    Primeira edição - Dezembro/2014
+    isbn:978-15-9327-590-7
     
 DEPENDENCIES:
 	sockets

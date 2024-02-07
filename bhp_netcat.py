@@ -13,6 +13,14 @@ DESCRIPTION:
     do. This code was copied from Black Hat Python book and was originally 
     written in Python 2.7.
     
+    Black Hat Python
+    Seitz, Justin
+    No Starch Press
+    Primeira edição - Dezembro/2014
+    isbn:978-15-9327-590-7
+
+
+    
 DEPENDENCIES:
     sys
     socket

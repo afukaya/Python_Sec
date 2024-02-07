@@ -9,6 +9,12 @@ DATE  : 25/01/2019
 DESCRIPTION:
     Provides a basic TCP client example using socket library. This code was 
     copied from Black Hat Python book and was written in Python 2.
+
+    Black Hat Python
+    Seitz, Justin
+    No Starch Press
+    Primeira edição - Dezembro/2014
+    isbn:978-15-9327-590-7
     
 DEPENDENCIES:
 	sockets

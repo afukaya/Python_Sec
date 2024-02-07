@@ -6,6 +6,7 @@ import os
 
 # initialize the networks dataframe that will contain all access points nearby
 df_networks = pd.DataFrame(columns=["BSSID", "SSID", "dBm_Signal", "Channel", "Crypto"])
+
 # set the index BSSID (MAC address of the AP)
 df_networks.set_index("BSSID", inplace=True)
 
